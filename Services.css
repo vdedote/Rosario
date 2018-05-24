@@ -1,0 +1,17 @@
+a{
+	color: green;
+	text-decoration: none;
+}
+a:hover
+{
+	color: green;
+	text-decoration: none;
+}
+/*a:mouseenter
+{
+	color: green;
+}
+a:mouseleave
+{
+	color: green;
+}*/

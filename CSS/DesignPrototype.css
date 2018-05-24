@@ -1,0 +1,58 @@
+		.carousel-inner > .item > img,
+  		.carousel-inner > .item > a > img
+  		{
+  			width: 80%;
+  			margin: auto;
+  		}
+  		.carousel img
+  		{
+    		min-width: 100%;
+		}
+		/*Changes the color of the background of the arrows*/
+		.carousel-outer
+		{
+			background-color: transparent;
+		}
+		.carousel-content
+		{
+			position: absolute;
+			  bottom: 5%;
+			  left: 5%;
+			  z-index: 20;
+			  color: white;
+			  text-shadow: 0 1px 2px rgba(0,0,0,.6);
+		}
+		/*in-Lines the button with the text*/
+		h2 .btn { display: inline-block; }
+		a
+		{
+			font-family: 'Open Sans', sans-serif;
+			font-size: 15px;
+		}
+
+		/*This is for the caption of the slideshow..............*/
+		.carousel-caption
+		{
+			font-family: 'aniversregular';
+		}
+		/*This is for the caption of the slideshow..............*/
+
+		/*This is for the Gallery */
+		.caption,.thumbnail,img
+		{
+			font-family: 'aniversregular';
+			font-size: 20px;
+			cursor: default;
+			
+		}
+		.caption:hover
+		{
+			text-decoration: none; !important;
+		}
+		.caption, p
+		{
+			text-decoration: none; !important;
+			border-bottom: 0px; !important;
+		}
+		
+	

@@ -1,0 +1,6 @@
+<?php
+	include ("Servers/connection.php");
+
+	// Display message for checking
+		echo ("Connected to Server Successfully!<br>");
+?>
